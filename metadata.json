@@ -1,0 +1,6 @@
+{
+  "name": "CivicPulse AI",
+  "description": "AI-Powered Urban & Environmental Incident Intelligence Platform - Transforming scattered citizen reports into actionable real-time urban intelligence.",
+  "requestFramePermissions": ["geolocation", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
